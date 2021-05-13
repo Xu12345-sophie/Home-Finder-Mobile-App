@@ -1,2 +1,3 @@
 # Home Finder Mobile App
  
+Create a mobile application using React Native to help users find suitable and available houses fitting their needs. Store housing information (pictures, pricing, house facts and features, neighborhoods, and location) using Firebase so customers can search through database using their mobile device. Migrate house data to MySQL, as well as use Java and Spring Boot to build the backend of the application.
